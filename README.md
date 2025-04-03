@@ -29,6 +29,6 @@ Gra wisielec z interfejsem terminalowym, napisana w Pythonie. Program losuje sł
    git clone https://github.com/STBash/Wisielec.git
    cd Wisielec
 
-2.**Uruchom gre**:
+2. **Uruchom gre**:
 ```bash
  python hangman.py
